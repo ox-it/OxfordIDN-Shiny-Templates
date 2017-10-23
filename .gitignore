@@ -1,0 +1,24 @@
+# Ignore RProject files
+*.Rproj.user
+*.Rhistory
+*.RData
+*.dcf
+.DS_Store
+rsconnect/
+
+# CSV files
+*.csv
+*.txt
+
+# PDFs
+*.pdf
+
+#Ignore all xlsx files
+*.xlsx
+*.xls
+
+*.Rproj.user
+*.rds
+*.httr-oauth
+.httr-oauth
+.Rproj.user
